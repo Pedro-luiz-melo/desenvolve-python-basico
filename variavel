@@ -1,0 +1,3 @@
+meu_nome = "Pedro"
+print ("Olá meu nome é")
+print (meu_nome)
